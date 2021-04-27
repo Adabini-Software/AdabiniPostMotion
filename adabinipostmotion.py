@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 import mediapipe as mp
 import cv2
 import os, glob
